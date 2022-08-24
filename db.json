@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post ine",
+      "body": "this is the post body",
+      "publishedAr": "24.8.2022"
+    },
+    {
+      "id": "2",
+      "title": "Post ine",
+      "body": "this is the post body",
+      "publishedAr": "24.8.2022"
+    },
+    {
+      "id": "3",
+      "title": "Post ine",
+      "body": "this is the post body",
+      "publishedAr": "24.8.2022"
+    },
+    {
+      "title": "for",
+      "body": "four",
+      "publishedAt": "2022-08-24",
+      "id": "UqISmWt"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Ilya",
+      "email": "ilya@gmail.com"
+    }
+  ]
+}
